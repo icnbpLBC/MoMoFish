@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LazyPoint
+  - WorkPoint
+  - Boss
+  - Enemy
+  - Attack
+  - Robot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - upItem
+  - player
+  - Item
+  - Confinder
+  - 
+  - builder
+  - 
+  - attack
+  - BossAI
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: item
+    uniqueID: 3685623577
+    locked: 0
+  - name: background
+    uniqueID: 2113096071
+    locked: 0
+  - name: player
+    uniqueID: 869210239
+    locked: 0

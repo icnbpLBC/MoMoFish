@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: 9ac52a5447c7efb43a3e70c85826346a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a574e8202c18429b324eb5087cd80
+      internalID: 311069540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 435
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1dccb41d20774ba5a432eb1e93a01
+      internalID: -478326340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 434
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387760f15f8785418395c371c018742
+      internalID: -172761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 432
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b91ec38bbca084cba4661168101c2e
+      internalID: -1712487125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 432
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b97ea795a88a2f46b92e9b4d0c48d07
+      internalID: 359624434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 426
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e78b7858ea11947b59b237ec7633ef
+      internalID: -2138160791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cc23b440cc9b54c86f7af1534d9a1c
+      internalID: 2043105293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 427
+        width: 29
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc4230a7a553b44be680c9ab348b17
+      internalID: -110187565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 451
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5f6fd7111adf249ba73ad92e9a072a
+      internalID: 1585860107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 451
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75499454dd4d6443bf94cd7e3e40716
+      internalID: 1086028566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 459
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c2f63830c180340add9624231f3fab
+      internalID: -1490339985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 456
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85066bdd1f507804fb99faaacee149c4
+      internalID: -783240274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d4eb44e1db25242b84c57a6a03cbfd
+      internalID: 939234966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd786afb6ee139458dc340598ceabba
+      internalID: 823412963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 339
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ac7196347fc84190e7af4c1abd4da
+      internalID: -305695026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 338
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab2ab1ad0a70354f83e9e333b454c3e
+      internalID: 2035321870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 336
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b3a4ea2017af46892a92a3c2bb833
+      internalID: 1939465448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 336
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef40e5d9a29754d9718746339399c3
+      internalID: 1103293080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 330
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d57accdc783d448e760b2d17ee104
+      internalID: 1262284647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 328
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21827313d8b57458958446c0b2615c
+      internalID: 1314953179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 403
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647e0f648d7c37943b966fe6789bc793
+      internalID: -1960267250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 401
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7a4c5da8128440a9bd1f784020f22
+      internalID: 237567246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755fe980153ba1c41bf4e3006fdcd1e2
+      internalID: 98861201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 396
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739f77280c01234a8a28f5f10a60d21
+      internalID: 674049578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 394
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d278ca56ed417048aed387a9eb4da6d
+      internalID: 1452563213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 384
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64837d8751ad13c4784bf662f9237ab3
+      internalID: 1049205351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 352
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74777a7ed0473df44a66a5e6381ff147
+      internalID: -1670211343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 333
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072376ec3ec2c874583c209ae5083a2a
+      internalID: -547046956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 330
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0788c55ec89c463468e22ec7358484bc
+      internalID: 2031163729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 332
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af903943edb3f438887d76f3eba702
+      internalID: 188333855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 334
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77316799e4e0014f846bf6d5499b7be
+      internalID: 7364245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 334
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19581444d1b957f4c8d8ce3b55fc98e1
+      internalID: -209888119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 345
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923b2646a9f8c9408034e1e5b2a7b5a
+      internalID: -1469418464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 345
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0980f36281254b9ab1e81f1467978
+      internalID: 1299972558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 345
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ef0e956bcbd947bfee878df3c0ca7
+      internalID: 741455888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 287
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ce1e2241d7f942b7d314e446e604f
+      internalID: -1987934585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ea820f1957d84387fc59dce1080f1
+      internalID: 367439672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1155a3f3828ca54f87afdf89c1454ad
+      internalID: -425044338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 224
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1f99e0cd52614e8b0f9a79f93f92e
+      internalID: -1670069533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9bd09972d4bce47a1f20ceb7264c85
+      internalID: 899544886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128d30a985b6e84b81f6adc81b59027
+      internalID: 856459281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac7490f291df4e4f99ccfbe2beab93e
+      internalID: -2118504038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b53029bc5b2d4d439f6e91515ae7517
+      internalID: -1963802377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4edce61937054e875df09714fde86
+      internalID: 1298011218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 287
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94cb2b4bd201e408a4e09d44dabb4f
+      internalID: -226964722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf843da95cf912f4b8ab64d20de16337
+      internalID: -1028772426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_32": -1469418464
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_35": -1987934585
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_41": -2118504038
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_13": 823412963
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_39": 899544886
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_28": 2031163729
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_42": -1963802377
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_19": 1314953179
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_44": -226964722
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_38": -1670069533
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_24": 1452563213
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_14": -305695026
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_37": -425044338
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_11": -783240274
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_34": 741455888
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_22": 98861201
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_36": 367439672
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_33": 1299972558
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_5": -2138160791
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_27": -547046956
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_3": -1712487125
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_7": -110187565
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_6": 2043105293
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_12": 939234966
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_43": 1298011218
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_21": 237567246
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_23": 674049578
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_0": 311069540
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_25": 1049205351
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_29": 188333855
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_10": -1490339985
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_4": 359624434
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_15": 2035321870
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_18": 1262284647
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_30": 7364245
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_2": -172761686
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_17": 1103293080
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_31": -209888119
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_9": 1086028566
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_16": 1939465448
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_1": -478326340
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_45": -1028772426
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_40": 856459281
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_20": -1960267250
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_26": -1670211343
+      "RPG Marker VX Ace\u81EA\u5E26-\u5730\u7262 C(C)_\u7231\u7ED9\u7F51_aigei_com_8": 1585860107
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
